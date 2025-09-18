@@ -5,19 +5,6 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />
 
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilPattankude&show_icons=true&count_private=true&theme=radical" width="45%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=SahilPattankude&theme=radical&hide_border=true" width="45%" /> -->
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPattankude&layout=compact&theme=radical" width="45%" />
- 
-</p>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
-
-
 ### 🛠️ My Skills
 
 #### 💻 Programming Languages
