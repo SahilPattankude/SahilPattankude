@@ -1,56 +1,134 @@
-<h1>Hello 👋, Myself Sahil</h1>
-<p>Passionate Software Developer with 4+ years of experience in full-stack development. Proficient  in building scalable web applications using React.js, Node.js, and PostgreSQL. Skilled at writing  clear, maintainable code and resolving complex issues.</p>
-🌐 My Website:https://sahilpattankudedev.vercel.app/
+# Hi 👋, I'm Sahil Pattankude
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=280&section=header&text=Sahil%20Pattankude&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20AI%20Engineer&descAlignY=58"/>
+</p>
 
+<h3 align="center">🚀 Full Stack Developer • MERN • Java • AI Powered Applications</h3>
 
-### 🛠️ My Skills
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;MERN+Stack+Developer;Java+Developer;OpenAI+%7C+Gemini+Integration;FastAPI+Developer"/>
+</p>
 
-#### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p align="center">
+<a href="https://sahilpattankudedev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/sahil-pattankude/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:pattankudesahil@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/></a>
+<img src="https://komarev.com/ghpvc/?username=SahilPattankude&style=for-the-badge&color=blueviolet"/>
+</p>
 
+---
 
-#### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+# 💫 About Me
 
-#### 🧠 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+- 🎓 B.E. Information Technology (CGPA 7.9)
+- 💻 Full Stack MERN Developer
+- 🤖 Building AI-powered web applications using OpenAI & Google Gemini
+- ⚡ Passionate about Microservices, REST APIs & System Design
+- 📍 Pune, Maharashtra
 
-#### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+---
 
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
-![npm](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-FF6C37?logo=api&logoColor=white)
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+# 🚀 Currently Working On
 
+- AI Resume Analyzer
+- ATS Score Checker
+- AI Recruiter Dashboard
+- CodeVerse Microservices Platform
+- Docker & AWS
 
-### 💼 Featured Projects
+---
 
-- 🚀 [**Job Posting Portal**](https://github.com/SahilPattankude/job-posting) – Role-based auth, recruiter & applicant dashboards  
-- 📝 [**Blog Platform**](https://github.com/SahilPattankude/Blog-Poasting-Site) – Secure blogging with content management  
-- ✅ [**Task Manager**](https://github.com/SahilPattankude/Task-Management) – PHP-based task tracker with email alerts
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+# 🤖 AI Stack
 
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge"/>
+</p>
 
-### 📫 Let’s Connect
+# 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-pattankude/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:pattankudesahil@gmail.com)
+### Languages
+<p><img src="https://skillicons.dev/icons?i=java,js,ts,python"/></p>
 
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/></p>
 
+### Backend
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/></p>
+
+### Databases
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
+
+### DevOps & Tools
+<p><img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,npm,vercel"/></p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Job Portal
+- AI Resume Analyzer
+- ATS Score Checker
+- Recruiter Dashboard
+- AI Interview Generator
+- Google Gemini Integration
+
+## 💻 CodeVerse
+- Microservices Architecture
+- OpenAI & Gemini
+- Razorpay
+- Cloudinary
+- DSA Visualizer
+
+## 📝 Other Projects
+- Blog Platform
+- Task Manager
+
+---
+
+# 💼 Experience
+
+### Software Developer Intern — Virtu-Nexa
+React • Node.js • PostgreSQL • REST APIs
+
+### Full Stack Developer Intern — Avirait Technologies
+Next.js • FastAPI • PostgreSQL • Docker
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilPattankude&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilPattankude&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SahilPattankude&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilPattankude&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sahil-pattankude/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:pattankudesahil@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://sahilpattankudedev.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<p align="center">If you like my work, consider starring my repositories.</p>
