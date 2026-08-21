@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://sahilpattankudedev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
+<a href="https://sahil-pattankude-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
 <a href="https://www.linkedin.com/in/sahil-pattankude/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:pattankudesahil@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/></a>
 <img src="https://komarev.com/ghpvc/?username=SahilPattankude&style=for-the-badge&color=blueviolet"/>
