@@ -1,190 +1,90 @@
-# 👋 Hi, I'm Sahil Pattankude
+# Hey, I'm Sahil 👋
 
-### Full Stack Developer · MERN · Next.js · Java · AI Engineering
+Full-stack developer who builds MERN/Next.js applications and actually enjoys wiring AI into them — not because it's trendy, but because I like the problem of making an LLM do something reliable inside a real product.
 
-<p align="center">
-  <a href="https://sahil-pattankude-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sahil-pattankude/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pattankudesahil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I'm graduated with a B.E. in Information Technology and currently working as an **AI Native Web Developer Intern at Magicworks IT Solutions**, where I split time between full-stack feature work and AI-tooling experiments.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Full+Stack+Web+Developer;MERN+%7C+Next.js+%7C+FastAPI;Java+%7C+Python+%7C+TypeScript;Exploring+Cloud+%26+System+Design" />
-</p>
+📍 Pune, India · Open to **remote roles** and **freelance/contract work**
 
 ---
 
-## 👨‍💻 About Me
+## What I'm good at
 
-I'm a **Full Stack Developer** focused on building scalable web applications, AI-powered products, and backend systems.
+**Languages**
 
-* 🎓 B.E. in Information Technology — **CGPA: 8.0**
-* 💻 Full Stack development with **MERN & Next.js**
-* 🤖 Building AI applications with **OpenAI & Google Gemini**
-* ⚙️ Backend development using **Node.js, Express & FastAPI**
-* 🗄️ Working with **MongoDB, PostgreSQL & MySQL**
-* 🐳 Exploring **Docker, AWS & Microservices**
-* 🧠 Interested in **System Design, REST APIs & scalable architectures**
-* 📍 Pune, Maharashtra, India
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 
----
+**Frontend**
 
-## 🚀 Currently Building
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-* 🤖 AI Resume Analyzer & ATS systems
-* 👨‍💼 AI-powered Recruiter Platforms
-* 💻 Developer & DSA platforms
-* ⚙️ Microservices-based applications
-* ☁️ Dockerized applications & cloud deployments
-* 🧠 AI integrations using LLM APIs
+**Backend**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-# 🧰 Tech Stack
+**Databases**
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
-</p>
+**AI / LLM**
 
-### 🎨 Frontend
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+**Tools & DevOps**
 
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-### 🤖 AI & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge" />
-</p>
-
-### ☁️ DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,npm,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vercel,npm" />
 
 ---
 
-# ⭐ Featured Projects
+## Projects I'm proud of
 
-## 🤖 AI Job Portal
+### 🧩 CodeVerse — 7-microservice EdTech platform
+A coding-education platform I built with a 4-person team as our final-year capstone: separate services for Auth, Course, Enrollment, Review, Payment, AI, and Email, plus a DSA visualizer with snapshot-based animation. We deliberately walked through failure scenarios across services instead of just demoing the happy path. The work was strong enough that we co-authored it as a research paper, published in IJRSI (IEEE-indexed).
 
-**AI-powered recruitment platform connecting candidates and recruiters.**
+`React` `Node.js` `Express` `MongoDB` `Docker` `Razorpay` `Cloudinary` `Google Gemini`
 
-* 📄 AI Resume Analyzer
-* 📊 ATS Score Evaluation
-* 👨‍💼 Recruiter Dashboard
-* 🤖 AI Interview Generator
-* 🔍 Job & Candidate Management
-* 🧠 Google Gemini Integration
-
-**Tech:** `Next.js` `Node.js` `MongoDB` `AI` `Gemini`
+[Live demo](https://code-verse-lweh.vercel.app/)
 
 ---
 
-## 💻 CodeVerse
+### 💼 AI-Powered Job Portal
+A recruitment platform with real AI features, not a "GPT wrapper" — resume parsing (PDF/DOCX), an ATS scoring dashboard, JD-match scoring, AI-generated interview questions, and a recruiter-side dashboard. Migrated the whole thing from OpenAI to Gemini mid-build and refactored into a shared `callAIJson` abstraction so swapping providers again won't mean rewriting every call site.
 
-**Developer platform focused on learning, coding, and AI-powered development tools.**
+`React` `Tailwind` `Node.js` `Express` `MongoDB` `JWT` `Gemini API`
 
-* ⚙️ Microservices Architecture
-* 🤖 OpenAI & Gemini Integration
-* 💳 Razorpay Payments
-* ☁️ Cloudinary Integration
-* 📚 DSA Visualizer
-* 🔐 Authentication & Authorization
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Docker` `OpenAI`
+[Live demo](https://smart-job-portal-beta.vercel.app/)
 
 ---
 
-## 🌐 Other Projects
+### ✈️ Wanderly — travel planning, with an actual design point of view
+Most travel-planner clones look identical. This one's built around a boarding-pass visual motif, with animated SVG flight paths, a drag-to-reorder itinerary builder, an interactive map, and an AI trip planner. Also containerized it properly — multi-stage Dockerfile, docker-compose, Next.js standalone output — because "it works on my machine" isn't a deployment strategy.
 
-| Project                | Description                     | Stack             |
-| ---------------------- | ------------------------------- | ----------------- |
-| 📝 Blog Platform       | Full-stack blogging application | MERN              |
-| ✅ Task Manager         | Task management application     | React · Node.js   |
-| 📄 Resume Analyzer     | AI-powered resume analysis      | Next.js · AI      |
-| 💼 Recruiter Dashboard | Recruitment management platform | Next.js · FastAPI |
+`Next.js 14` `TypeScript` `Tailwind` `Framer Motion` `Docker`
+
+[Live demo](https://wanderly-a-travel-agency.vercel.app/)
 
 ---
 
-# 💼 Experience
+## Experience
 
-### Software Developer Intern — Virtu-Nexa
+**AI Native Web Developer Intern** — Magicworks IT Solutions. *(current)*
+Full-stack feature development with an AI-integration focus.
 
-**React · Node.js · PostgreSQL · REST APIs**
+**Full Stack Developer Intern** — Avirait Technologies
+Next.js, FastAPI, PostgreSQL, Docker.
 
-* Developed frontend interfaces using React.
-* Built and integrated REST APIs.
-* Worked with PostgreSQL-based backend systems.
-* Contributed to application development in a production environment.
-
-### Full Stack Developer Intern — Avirait Technologies
-
-**Next.js · FastAPI · PostgreSQL · Docker**
-
-* Developed full-stack web applications using Next.js and FastAPI.
-* Built backend APIs and database integrations.
-* Worked with Docker-based development environments.
-* Contributed to production-oriented application development.
+**Software Developer Intern** — Virtu-Nexa
+React, Node.js, PostgreSQL, REST APIs.
 
 ---
 
-# 🎯 Currently Learning
+## Let's talk
 
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engineering-7C3AED?style=for-the-badge" />
-</p>
+If you're hiring for a remote full-stack or AI-integration role, or you've got a freelance project that needs someone who'll actually think about the architecture before writing code — reach out.
 
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://sahil-pattankude-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sahil-pattankude/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pattankudesahil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>💡 Building products. Learning continuously. Solving real problems.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider starring the repository.
-</p>
+- 📧 [pattankudesahil@gmail.com](mailto:pattankudesahil@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-pattankude/)
+- 🌐 [Portfolio](https://sahilpattankudedev.vercel.app)
+- 🐙 [GitHub](https://github.com/SahilPattankude)
